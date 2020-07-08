@@ -1,3 +1,5 @@
+<a href="./1-inicio.md">Voltar</a>
+
 # Meio
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc efficitur, orci id sagittis vestibulum, tellus nulla consectetur urna, ac ultricies metus elit ut nulla. Quisque eget dictum nunc, sed lobortis ante. Nulla justo augue, mollis ut enim quis, ornare eleifend magna. Praesent ac tincidunt lectus. Fusce ut nisl scelerisque, porttitor arcu sit amet, semper tortor. Nullam in nisl eu est mollis efficitur. Quisque est mauris, congue id dolor sit amet, pharetra tincidunt lorem. Donec ornare nibh eleifend risus laoreet vehicula. Suspendisse finibus varius neque ac mollis. Sed condimentum, arcu vel venenatis porttitor, ex sem vehicula purus, sed euismod nulla nisi blandit massa. Sed auctor sem sed sagittis sagittis.
@@ -10,7 +12,6 @@ Nulla ornare eget lorem laoreet tincidunt. Curabitur gravida nibh aliquet, solli
 
 Donec vehicula rutrum turpis at efficitur. Nam consequat pellentesque dui sed pulvinar. Donec sed nisl ante. Fusce sit amet dui sit amet libero dapibus porta nec vitae diam. Morbi eget urna suscipit, vehicula nisl tincidunt, tempor ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum luctus tellus vel diam pellentesque gravida. Vestibulum varius aliquam elit vehicula cursus. Aenean a iaculis lectus.
 
-<p style="display: flex; justify-content: space-between">
-  <a href="./1-inicio.md">Voltar</a>
+<p align="right">
   <a href="./3-fim.md">Avançar</a>
 </p>
