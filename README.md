@@ -18,3 +18,9 @@
 1. [Sub Folder 1](/4noobsDocs/sub-folder-1/test-file-1.md)
 1. [Sub Folder 2](/4noobsDocs/sub-folder-1/sub-folder-2/test-file-2.md)
 1. [Sub Folder 3](/4noobsDocs/sub-folder-1/sub-folder-2/sub-folder-3/test-file-3.md)
+
+# Links Externos
+
+<a href="https://github.com/danilomacb" target="_blank" rel="noopener noreferrer">Github</a><br>
+<a href="https://twitter.com/danilomacb" target="_blank" rel="noopener noreferrer">Twitter</a><br>
+<a href="https://www.linkedin.com/in/danilomacb" target="_blank" rel="noopener noreferrer">Linkedin</a>
