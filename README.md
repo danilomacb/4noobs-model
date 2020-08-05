@@ -19,6 +19,19 @@
 - [Meio](./4noobsDocs/2-Desenvolvimento/1-Meio.md)
 - [Fim](./4noobsDocs/3-Conclusao/1-Fim.md)
 
+# Code Snippets
+
+- [Bash](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/bash.md)
+- [C](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/c.md)
+- [C++](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/cpp.md)
+- [C#](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/csharp.md)
+- [Elixir](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/elixir.md)
+- [Java](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/java.md)
+- [JavaScript](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/javascript.md)
+- [PHP](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/php.md)
+- [Python](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/python.md)
+- [Ruby](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/ruby.md)
+
 # Links Externos
 
 <a href="https://github.com/danilomacb" target="_blank" rel="noopener noreferrer">Github</a><br>
