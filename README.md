@@ -21,16 +21,16 @@
 
 # Code Snippets
 
-- [Bash](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/bash.md)
-- [C](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/c.md)
-- [C++](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/cpp.md)
-- [C#](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/csharp.md)
-- [Elixir](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/elixir.md)
-- [Java](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/java.md)
-- [JavaScript](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/javascript.md)
-- [PHP](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/php.md)
-- [Python](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/python.md)
-- [Ruby](/4noobsDocs/Code-Snippets/Linguagens-de-Programacao/ruby.md)
+- [Bash](/4noobsDocs/Code-Snippets/Linguagens/bash.md)
+- [C](/4noobsDocs/Code-Snippets/Linguagens/c.md)
+- [C++](/4noobsDocs/Code-Snippets/Linguagens/cpp.md)
+- [C#](/4noobsDocs/Code-Snippets/Linguagens/csharp.md)
+- [Elixir](/4noobsDocs/Code-Snippets/Linguagens/elixir.md)
+- [Java](/4noobsDocs/Code-Snippets/Linguagens/java.md)
+- [JavaScript](/4noobsDocs/Code-Snippets/Linguagens/javascript.md)
+- [PHP](/4noobsDocs/Code-Snippets/Linguagens/php.md)
+- [Python](/4noobsDocs/Code-Snippets/Linguagens/python.md)
+- [Ruby](/4noobsDocs/Code-Snippets/Linguagens/ruby.md)
 
 # Links Externos
 
