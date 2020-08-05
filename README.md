@@ -13,11 +13,11 @@
 1. <a href="./4noobsDocs/2-Desenvolvimento_1-Meio.md">Meio</a>
 1. <a href="./4noobsDocs/3-Conclusao_1-Fim.md">Fim</a>
 
-# Sub Folders
+# Sub Pastas
 
-1. [Sub Folder 1](/4noobsDocs/sub-folder-1/test-file-1.md)
-1. [Sub Folder 2](/4noobsDocs/sub-folder-1/sub-folder-2/test-file-2.md)
-1. [Sub Folder 3](/4noobsDocs/sub-folder-1/sub-folder-2/sub-folder-3/test-file-3.md)
+- [Início](./4noobsDocs/1-Introducao/1-Inicio.md)
+- [Meio](./4noobsDocs/2-Desenvolvimento/1-Meio.md)
+- [Fim](./4noobsDocs/3-Conclusao/1-Fim.md)
 
 # Links Externos
 
