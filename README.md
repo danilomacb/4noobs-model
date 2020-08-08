@@ -26,6 +26,7 @@
 - [C++](/4noobsDocs/Code-Snippets/Linguagens/cpp.md)
 - [C#](/4noobsDocs/Code-Snippets/Linguagens/csharp.md)
 - [Elixir](/4noobsDocs/Code-Snippets/Linguagens/elixir.md)
+- [GO](/4noobsDocs/Code-Snippets/Linguagens/go.md)
 - [HTML](/4noobsDocs/Code-Snippets/Linguagens/html.md)
 - [Java](/4noobsDocs/Code-Snippets/Linguagens/java.md)
 - [JavaScript](/4noobsDocs/Code-Snippets/Linguagens/javascript.md)
