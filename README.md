@@ -34,6 +34,7 @@
 - [PHP](/4noobsDocs/Code-Snippets/Linguagens/php.md)
 - [Python](/4noobsDocs/Code-Snippets/Linguagens/python.md)
 - [Ruby](/4noobsDocs/Code-Snippets/Linguagens/ruby.md)
+- [Rust](/4noobsDocs/Code-Snippets/Linguagens/rust.md)
 
 # Links Externos
 
